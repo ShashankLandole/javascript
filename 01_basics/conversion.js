@@ -7,6 +7,12 @@ let valueInNumber = Number(score)//this can be converted into Boolean or String
 console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
+
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log(1 + 2 + "1");
+
 /* 
 
 after conversion typeOf is always number
